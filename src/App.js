@@ -20,6 +20,9 @@ function App() {
         <div>
           Blank.......
         </div>
+        <div>
+          Blank
+        </div>
       </header>
     </div>
   );
