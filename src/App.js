@@ -18,6 +18,9 @@ function App() {
           Learn React
         </a>
         <div>
+          Blank.......
+        </div>
+        <div>
           Blank
         </div>
       </header>
