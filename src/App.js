@@ -18,7 +18,7 @@ function App() {
           Learn React
         </a>
         <div>
-          Blank
+          Blank...
         </div>
       </header>
     </div>
